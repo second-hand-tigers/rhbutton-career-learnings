@@ -24,8 +24,8 @@ of the whole layout that's supposed to be entirely yours. -->
 
 ## How This Repo Is Organized
 
-- **Wiki** — the actual content, organized as a Home page with a Career Development Topics table (mirrors the table above) plus an optional Job Aids table for reusable checklists, templates, or standalone case studies.
-- **Issues / Project board** — a personal working backlog. Start from a blank Board, not a curated template, with three columns: Not Started → Drafted → Posted.
+- **[Wiki](../../wiki)** — the actual content, organized as a Home page with a Career Development Topics table (mirrors the table above) plus an optional Job Aids table for reusable checklists, templates, or standalone case studies.
+- **[Issues / Projects](../../projects)** — a personal working backlog. Start from a blank Board, not a curated template, with three columns: Not Started → Drafted → Posted.
 - **`/slides`** — source material (the original decks, docs, or notes) your wiki pages are drawn from, organized by topic subfolder once you have more than a couple.
 
 ## About Me
