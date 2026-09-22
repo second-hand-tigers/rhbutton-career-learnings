@@ -5,7 +5,7 @@ _[← career-learnings-directory](https://github.com/second-hand-tigers/career-l
 
 > Part of the [second-hand-tigers](https://github.com/second-hand-tigers) Career Learnings network — career and non-technical skill-building content from experienced volunteer engineers, for university students and early-career engineers. See the [contributor directory](https://github.com/second-hand-tigers/career-learnings-directory) for the full list of contributors.
 
-📖 **Start with the [Wiki](../../wiki)* — try [Topic One](https://github.com/second-hand-tigers/REPLACE-WITH-YOUR-USERNAME-career-learnings/wiki/Topic-One-Slug) or [Topic Two](https://github.com/second-hand-tigers/REPLACE-WITH-YOUR-USERNAME-career-learnings/wiki/Topic-Two-Slug).
+📖 **Start with the [Wiki](../../wiki)** — try [Topic One](https://github.com/second-hand-tigers/REPLACE-WITH-YOUR-USERNAME-career-learnings/wiki/Topic-One-Slug) or [Topic Two](https://github.com/second-hand-tigers/REPLACE-WITH-YOUR-USERNAME-career-learnings/wiki/Topic-Two-Slug).
 
 ## Why This Exists
 
